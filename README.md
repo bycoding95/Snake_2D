@@ -1,4 +1,4 @@
-# snake_2d
+# Snake_2D
 Snake in Java-Swing and with two different difficulties.
 - with game menu
 - easy mode: it can't crash against the walls
